@@ -17,8 +17,8 @@ Data Structures &amp; Algorithms
 4. Sets
 
 ## Arrays
-- [Traversal]()
-- Insertion at the beginning
+- [Traversal](./Arrays/traversal.c)
+- [Insertion at the beginning](./Arrays/insert_start.c)
 - Insertion at the end
 - Insertion at the specified position (Unsorted)
 - Insertion at the specified position (Sorted)
