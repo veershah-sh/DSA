@@ -1,73 +1,40 @@
-/*
-    insert at start
-    insert at end
-    insert after a value
-*/
-
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 typedef struct node
 {
     int data;
     struct node *next;
-}node;
+} node;
 
-void insertNode(node *newnode, node *head){
-    printf("Enter data to insert at start: ");
-    scanf("%d",&newnode->data);
+// typedef struct node node;
+// node *head, *newNode; -- optional
 
-    // insert at start
-    newnode->next = head;
-    head = newnode;
+node* insertAtBeginning(node* head, int newData) { 
+    node *newNode = (node*)malloc(sizeof(node));
+    if (newNode == NULL) {
+        printf("Memory allocation failed\n");
+        exit(1);
+    }
+    newNode->data = newData;
+    newNode->next = head;
+    head = newNode;
+    return head;
 }
 
-void main(){
-    node *head, *newnode, *temp;
-    head = 0;
-    int ch=1;
-    while (ch == 1)
-    {
-        // creating one single node
-        newnode = (node*)malloc(sizeof(node));
+void main(void)
+{
+    node *head = 0;
+    node *temp;
 
-        // data
-        printf("Enter data of node: ");
-        scanf("%d", &newnode->data);
-        // link
-        newnode->next = 0;
-
-        if(head == 0){
-            head = newnode;
-            temp = newnode;
-        }
-        else{
-            temp->next = newnode;
-            temp = newnode;
-        }
-        printf("Enter your choice (0,1): ");
-        scanf("%d",&ch);
-    }
-
-    int other;
-    printf("Do you want to insert any other node(0/1): ");
-    scanf("%d",&other);
-    if(other == 1){
-        printf("Enter data to insert at start: ");
-        scanf("%d",&newnode->data);
-
-        // insert at start
-        newnode->next = head;
-        head = newnode;
-    }
-    
-    // traverse 
+    head = insertAtBeginning(head, 50);
+    head = insertAtBeginning(head, 40);
+    // traverse
     temp = head;
     while (temp != 0)
     {
-        printf("%d ", temp->data);
+        printf("%d -> ", temp->data);
         temp = temp->next;
-        // break;
-    }     
+    }
+    printf("NULL\n");
 }
-
