@@ -26,3 +26,4 @@ Data Structures &amp; Algorithms
 - Deletion from the end
 - Deletion at the specified position (Unsorted)
 - Deletion at the specified position (Sorted)
+## Linked List
