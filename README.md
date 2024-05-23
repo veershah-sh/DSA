@@ -19,7 +19,7 @@ Data Structures &amp; Algorithms
 ## Arrays
 - [Traversal](./Arrays/traversal.c)
 - [Insertion at the beginning](./Arrays/insert_start.c)
-- Insertion at the end
+- [Insertion at the end](Arrays/insert_end.c)
 - Insertion at the specified position (Unsorted)
 - Insertion at the specified position (Sorted)
 - Deletion from the beginning
