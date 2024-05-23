@@ -20,10 +20,10 @@ Data Structures &amp; Algorithms
 - [Traversal](./Arrays/traversal.c)
 - [Insertion at the beginning](./Arrays/insert_start.c)
 - [Insertion at the end](Arrays/insert_end.c)
-- Insertion at the specified position (Unsorted)
+- [Insertion at the specified position (Unsorted)](Arrays/insert_end.c)
 - Insertion at the specified position (Sorted)
-- Deletion from the beginning
-- Deletion from the end
-- Deletion at the specified position (Unsorted)
+- [Deletion from the beginning](Arrays/delete_start.c)
+- [Deletion from the end](Arrays/delete_end.c)
+- [Deletion at the specified position (Unsorted)](Arrays/delete_pos.c)
 - Deletion at the specified position (Sorted)
 ## Linked List
