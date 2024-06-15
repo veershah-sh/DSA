@@ -51,8 +51,15 @@ Data Structures &amp; Algorithms
 - Creating dynamic data structures such as linked lists and trees
 
 ## Linked List
-### What is a Linked List ❓❓
+### What is a Linked List 🔗❓❓
 - A linked list is a linear data structure that consists of a series of nodes connected by pointers.
 - Each node contains data and a reference to the next node in the list.
 - Unlike arrays, linked lists allow for efficient insertion or removal of elements from any position in the list, as the nodes are not stored contiguously in memory.
-### [Applications, Advantages and Disadvantages of Linked List](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-linked-list/)💻💻
+### Types of Linked List 🔗🔗
+  1. Singly Linked List 🔗
+  -  It is the simplest type of linked list in which every node contains some data and a pointer to the next node of the same data type.
+  2. Doubly Linked List
+  -  A doubly linked list or a two-way linked list is a more complex type of linked list that contains a pointer to the next as well as the previous node in sequence.
+  3. Circular Linked List
+  -  A circular linked list is that in which the last node contains the pointer to the first node of the list. 
+### [Applications, Advantages and Disadvantages of Linked List](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-linked-list/)🔗💻
