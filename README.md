@@ -58,8 +58,20 @@ Data Structures &amp; Algorithms
 ### Types of Linked List 🔗🔗
   1. Singly Linked List 🔗
   -  It is the simplest type of linked list in which every node contains some data and a pointer to the next node of the same data type.
-  2. Doubly Linked List
+  2. Doubly Linked List ⛓
   -  A doubly linked list or a two-way linked list is a more complex type of linked list that contains a pointer to the next as well as the previous node in sequence.
-  3. Circular Linked List
-  -  A circular linked list is that in which the last node contains the pointer to the first node of the list. 
+  3. Circular Linked List 🖇
+  -  A circular linked list is that in which the last node contains the pointer to the first node of the list.
+### Operations on Singly Linked List:
+    [Traversal]()
+    [Searching]()
+    [Length]()
+    Insertion:
+      Insert at the beginning
+      Insert at the end
+      Insert at a specific position
+    Deletion:
+      Delete from the beginning
+      Delete from the end
+      Delete a specific node
 ### [Applications, Advantages and Disadvantages of Linked List](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-linked-list/)🔗💻
