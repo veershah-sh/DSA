@@ -82,8 +82,9 @@ Data Structures &amp; Algorithms
       - [Insertion at the beginning of Doubly Linked List]()
       - [Insertion at the end of the Doubly Linked List]()
       - [Insertion at a specific position in Doubly Linked List]()
-- Deletion in Doubly Linked List:➖➖
+-  Deletion in Doubly Linked List:➖➖
       - [Deletion of a node at the beginning of Doubly Linked List]()
       - [Deletion of a node at a specific position in Doubly Linked List]()
       - [Deletion of a node at the end of Doubly Linked List]()
+
 ### [Applications, Advantages and Disadvantages of Linked List](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-linked-list/)🔗💻
