@@ -67,13 +67,13 @@ Data Structures &amp; Algorithms
   -  [Searching]()
   -  [Length]()
   -  Insertion:➕➕
-     - [Insert at the beginning](Linked List/insert_LL.c)
-     - [Insert at the end](Linked List/insert_end.c)
-     - [Insert at a specific position](Linked List/insert_pos.c)
+     - [Insert at the beginning](Linked List/linkedlist.c)
+     - [Insert at the end]()
+     - [Insert at a specific position]()
  -  Deletion:➖➖
-     - [Delete from the beginning](Linked List/delete_start.c)
-     - [Delete from the end](Linked List/delete_end.c)
-     - [Delete a specific node](Linked List/delete_pos.c)
+     - [Delete from the beginning]()
+     - [Delete from the end]()
+     - [Delete a specific node]()
 ### Operations on Doubly Linked List:
 -  [Traversal in Doubly Linked List]()
 -  [Searching in Doubly Linked List]()
