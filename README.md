@@ -63,15 +63,27 @@ Data Structures &amp; Algorithms
   3. Circular Linked List 🖇
   -  A circular linked list is that in which the last node contains the pointer to the first node of the list.
 ### Operations on Singly Linked List:
-  -  [Traversal]()
+  -  [Traversal](Linked List/linkedlist.c)
   -  [Searching]()
-  - [Length]()
-  -  Insertion:
-      [Insert at the beginning]()
-      [Insert at the end]()
-      [Insert at a specific position]()
- -  Deletion:
-      [Delete from the beginning]()
-      [Delete from the end]()
-      [Delete a specific node]()
+  -  [Length]()
+  -  Insertion:➕➕
+     - [Insert at the beginning](Linked List/insert_LL.c)
+     - [Insert at the end](Linked List/insert_end.c)
+     - [Insert at a specific position](Linked List/insert_pos.c)
+ -  Deletion:➖➖
+     - [Delete from the beginning](Linked List/delete_start.c)
+     - [Delete from the end](Linked List/delete_end.c)
+     - [Delete a specific node](Linked List/delete_pos.c)
+### Operations on Doubly Linked List:
+-  [Traversal in Doubly Linked List]()
+-  [Searching in Doubly Linked List]()
+-  [Finding Length of Doubly Linked List]()
+-  Insertion in Doubly Linked List:➕➕
+      - [Insertion at the beginning of Doubly Linked List]()
+      - [Insertion at the end of the Doubly Linked List]()
+      - [Insertion at a specific position in Doubly Linked List]()
+- Deletion in Doubly Linked List:➖➖
+      - [Deletion of a node at the beginning of Doubly Linked List]()
+      - [Deletion of a node at a specific position in Doubly Linked List]()
+      - [Deletion of a node at the end of Doubly Linked List]()
 ### [Applications, Advantages and Disadvantages of Linked List](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-linked-list/)🔗💻
