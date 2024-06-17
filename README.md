@@ -79,13 +79,13 @@ Data Structures &amp; Algorithms
 - [Searching in Doubly Linked List]()
 - [Finding Length of Doubly Linked List()
 - Insertion in Doubly Linked List:➕➕
-      1.  [Insertion at the beginning of Doubly Linked List]()
-      2.  [Insertion at the end of the Doubly Linked List]()
-      3.  [Insertion at a specific position in Doubly Linked List]()
+ -  1.  [Insertion at the beginning of Doubly Linked List]()
+ -  2.  [Insertion at the end of the Doubly Linked List]()
+ -  3.  [Insertion at a specific position in Doubly Linked List]()
 - Deletion in Doubly Linked List:➖➖
-      1.  [Deletion of a node at the beginning of Doubly Linked List]()
-      2.  [Deletion of a node at a specific position in Doubly Linked List]()
-      3.  [Deletion of a node at the end of Doubly Linked List]()
+  - 1.  [Deletion of a node at the beginning of Doubly Linked List]()
+  - 2.  [Deletion of a node at a specific position in Doubly Linked List]()
+  - 3.  [Deletion of a node at the end of Doubly Linked List]()
 ### Circular Linked List Operations    
 - [Traversal in Circular Linked List]()
 - [Insertion at the beginning of Circular Linked List]()
