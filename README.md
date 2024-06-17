@@ -109,3 +109,27 @@ Data Structures &amp; Algorithms
 ### [Implement Stack using Array](Stack/Stack_Array.c)
 ### [Implement Stack using Linked list](Stack/Stack_Linkedlist.c)
 ### [Applications, Advantages and Disadvantages of Stack](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-stack/?ref=lbp)
+## QUEUE 🎞🎞
+- A Queue is defined as a linear data structure that is open at both ends and the operations are performed in First In First Out (FIFO) order.
+### Queue Representation:
+- Like stacks, Queues can also be represented in an array: In this representation, the Queue is implemented using the array. Variables used in this case are
+- Queue: the name of the array storing queue elements.
+- Front: the index where the first element is stored in the array representing the queue.
+- Rear: the index where the last element is stored in an array representing the queue.
+### FIFO Principle of Queue:
+- A Queue is like a line waiting to purchase tickets, where the first person in line is the first person served. (i.e. First come first serve).
+- Position of the entry in a queue ready to be served, that is, the first entry that will be removed from the queue, is called the front of the queue(sometimes, head of the queue), 
+  similarly, the position of the last entry in the queue, that is, the one most recently added, is called the rear (or the tail) of the queue.
+### Characteristics of Queue: 💡💡
+-  Queue can handle multiple data.
+-  We can access both ends.
+-  They are fast and flexible.
+### [Different Types of Queues and its Applications](https://www.geeksforgeeks.org/different-types-of-queues-and-its-applications/)💻💻
+### Basic Operations of Queue Data Structure ⚔️⚔️
+- Enqueue (Insert): Adds an element to the rear of the queue.
+- Dequeue (Delete): Removes and returns the element from the front of the queue.
+- Peek: Returns the element at the front of the queue without removing it.
+- Empty: Checks if the queue is empty.
+- Full: Checks if the queue is full.
+###  Implementation of Queues 
+
