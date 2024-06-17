@@ -109,9 +109,9 @@ Data Structures &amp; Algorithms
 ### [Implement Stack using Array](Stack/Stack_Array.c)
 ### [Implement Stack using Linked list](Stack/Stack_Linkedlist.c)
 ### [Applications, Advantages and Disadvantages of Stack](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-stack/?ref=lbp)
-## QUEUE 🎞🎞
+## QUEUE ↔️🎞 ↔️🎞
 - A Queue is defined as a linear data structure that is open at both ends and the operations are performed in First In First Out (FIFO) order.
-### Queue Representation:
+### Queue Representation:👐👐
 - Like stacks, Queues can also be represented in an array: In this representation, the Queue is implemented using the array. Variables used in this case are
 - Queue: the name of the array storing queue elements.
 - Front: the index where the first element is stored in the array representing the queue.
@@ -131,5 +131,9 @@ Data Structures &amp; Algorithms
 - Peek: Returns the element at the front of the queue without removing it.
 - Empty: Checks if the queue is empty.
 - Full: Checks if the queue is full.
-###  Implementation of Queues 
+###  Implementation of Queues ⬇️
+-  [Simple Queue Using Array](Queue/Simple/simple.c)
+-  [Simple Queue Using Linked list](Queue/Simple/simple_LL.c)
+-  [Double Ended Queue (Deque) Using Array]()
+-  [Double Ended Queue (Deque) Using Linked list](Queue/DoubleEnded/deQueue_ll.c)
 
