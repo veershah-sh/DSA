@@ -63,7 +63,7 @@ Data Structures &amp; Algorithms
   3. Circular Linked List 🖇
   -  A circular linked list is that in which the last node contains the pointer to the first node of the list.
 ### Operations on Singly Linked List:
-  -  [Traversal]()
+  -  [Traversal](./Linked List/linkedlist.c)
   -  [Searching]()
   -  [Length]()
   -  Insertion:➕➕
@@ -136,5 +136,5 @@ Data Structures &amp; Algorithms
 -  [Simple Queue Using Linked list](Queue/Simple/simple_LL.c)
 -  [Double Ended Queue (Deque) Using Array]()
 -  [Double Ended Queue (Deque) Using Linked list](Queue/DoubleEnded/deQueue_ll.c)
--  [Circular Using  Array]()
+-  [Circular Using  Array](Queue/Circular/Circular_Array.c)
 
