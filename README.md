@@ -136,5 +136,6 @@ Data Structures &amp; Algorithms
 -  [Simple Queue Using Linked list](Queue/Simple/simple_LL.c)
 -  [Double Ended Queue (Deque) Using Array]()
 -  [Double Ended Queue (Deque) Using Linked list](Queue/DoubleEnded/deQueue_ll.c)
--  [Circular Using  Array](Queue/Circular/Circular_Array.c)
+-  [Circular Queue Using  Array](Queue/Circular/Circular_Array.c)
+-  [Circular Queue Using Linked list]()
 
